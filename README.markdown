@@ -10,19 +10,6 @@ A simple and interactive Chess Game built using JavaScript, HTML, and CSS. Play 
 - Basic piece dragging and dropping
 - Visual indicators for check and checkmate 
 
-## 📁 Project Structure
-
-javascript-chess-game/
-├── .vscode/
-  ├── launch.json
-├── source code/
-  ├── index.html
-  ├── style.css 
-  ├── script.js 
-├── assets/ 
-  ├── Board-view.png
-├──README.markdown
-
 ## 🚀 Clone the Repository
 
 Type in the terminal:
@@ -35,7 +22,7 @@ CSS – For styling the chessboard and pieces
 JavaScript – For game logic and DOM interaction
 
 📸 Screenshots
-https://github.com/SNMiguel/javascript-chess-game/assets/Board-view.png
+https://github.com/SNMiguel/javascript-chess-game/blob/assets/Board-view.png
 
 
 🎯 Future Improvements
@@ -48,3 +35,17 @@ https://github.com/SNMiguel/javascript-chess-game/assets/Board-view.png
 🧑‍💻 Author
 - Name: Miguel Shema Ngabonziza
 - LinkedIn: www.linkedin.com/in/migztech
+
+## 📁 Project Structure
+
+```bash
+javascript-chess-game/
+├── .vscode/
+  ├── launch.json
+├── source code/
+  ├── index.html
+  ├── style.css 
+  ├── script.js 
+├── assets/ 
+  ├── Board-view.png
+├──README.markdown
