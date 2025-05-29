@@ -13,13 +13,15 @@ A simple and interactive Chess Game built using JavaScript, HTML, and CSS. Play 
 ## 🚀 Clone the Repository
 
 Type in the terminal:
+```bash
 git clone https://github.com/SNMiguel/javascript-chess-game.git
 cd javascript-chess-game
+```
 
-🧠 Technologies Used
-HTML – For structuring the layout
-CSS – For styling the chessboard and pieces
-JavaScript – For game logic and DOM interaction
+🧠 Technologies Used:
+- HTML – For structuring the layout
+- CSS – For styling the chessboard and pieces
+- JavaScript – For game logic and DOM interaction
 
 📸 Screenshots
 https://github.com/SNMiguel/javascript-chess-game/blob/assets/Board-view.png
