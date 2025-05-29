@@ -24,7 +24,7 @@ cd javascript-chess-game
 - JavaScript – For game logic and DOM interaction
 
 📸 Screenshots
-https://github.com/SNMiguel/javascript-chess-game/blob/assets/Board-view.png
+[github.com/SNMiguel/javascript-chess-game/blob/assets/Board-view.png](https://github.com/SNMiguel/javascript-chess-game/blob/main/assets/Board-view.png)
 
 
 🎯 Future Improvements
